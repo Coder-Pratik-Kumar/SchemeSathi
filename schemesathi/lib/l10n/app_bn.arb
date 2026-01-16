@@ -1,0 +1,93 @@
+{
+  "@@locale": "bn",
+  "languageName": "Bengali",
+  "appName": "SchemeSathi AI",
+  "appSlogan": "Empowering citizens with clarity",
+  
+  "chooseLanguage": "আপনার পছন্দের ভাষা চয়ন করুন (Bengali)",
+  "changeLater": "আপনি এটি পরে যেকোনো সময় পরিবর্তন করতে পারেন",
+  "continueBtn": "চালিয়ে যান",
+  
+  "occStudent": "Student",
+  "occFarmer": "Farmer",
+  "occDailyWage": "Daily Wage Worker",
+  "occSalaried": "Salaried",
+  "occSelfEmployed": "Self-Employed",
+  "occUnemployed": "Unemployed",
+  "occRetired": "Retired",
+  
+  "analyzingSchemes": "Analyzing government schemes...",
+  "basedOnOfficial": "Based on official government documents",
+  
+  "resultsTitle": "Curated Schemes for You",
+  "resultsSubtitle": "Based on your profile",
+  "youQualify": "You qualify for",
+  "schemes": "schemes",
+  "viewDetails": "View Details",
+  "applyNow": "Apply Now",
+  "benefits": "Benefits",
+  "eligibility": "Eligibility",
+  
+  "skip": "Skip",
+  "next": "Next",
+  "getStarted": "Get Started",
+  
+  "onboardingTitle1": "AI-Powered Analysis",
+  "onboardingDesc1": "Smart algorithms analyze thousands of schemes to find the ones that perfectly match your profile.",
+  
+  "onboardingTitle2": "Multilingual Support",
+  "onboardingDesc2": "Access information in your preferred local language with just a single tap.",
+  
+  "onboardingTitle3": "Verified Results",
+  "onboardingDesc3": "Trust our verified system to provide only the most accurate and up-to-date scheme information.",
+  
+  "loginWelcome": "Welcome Back",
+  "loginSubtitle": "Sign in to continue",
+  "signIn": "Sign In",
+  "signUp": "Create Account",
+  "noAccount": "Don't have an account?",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "continueGuest": "Continue as Guest",
+  
+  "findMyBenefits": "Find My Benefits",
+  "microAi": "Micro AI Analysis • < 100ms",
+  "ageLabel": "Age",
+  "ageHint": "e.g. 24",
+  "incomeLabel": "Annual Income",
+  "incomeHint": "e.g. 500000",
+  "casteLabel": "Caste Category",
+  "stateLabel": "State",
+  "occupationLabel": "Occupation",
+  
+  "chipSchemes": "300+ Schemes",
+  "chipVerified": "Verified",
+  "chipOfficial": "Official",
+  
+  "trustOfficial": "Official Sources Only",
+  "trustLogin": "No Login Required",
+  "trustSecure": "100% Secure & Private",
+
+  "analyzingProfile": "প্রোফাইল বিশ্লেষণ করা হচ্ছে...",
+  "analyzingDesc": "1000+ সরকারি স্কিমের বিরুদ্ধে যোগ্যতা যাচাই করা হচ্ছে...",
+  "aiTrust": "অফিসিয়াল সরকারি নথির উপর ভিত্তি করে",
+  "confidenceScore": "{score}% আত্মবিশ্বাস",
+  "@confidenceScore": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+
+  "userDetailsTitle": "ব্যবহারকারীর বিবরণ",
+  "disabilityLabel": "ভিন্নভাবে সক্ষম?",
+
+  "schemeAssistantTitle": "স্কিম সহকারী",
+  "schemeAssistantSubtitle": "ধাপে ধাপে আবেদন করতে সাহায্য করছে",
+  "chatPlaceholder": "এই স্কিম সম্পর্কে জিজ্ঞাসা করুন...",
+  "quickEligible": "আমি কি যোগ্য?",
+  "quickDocs": "প্রয়োজনীয় কাগজপত্র",
+  "quickApply": "কীভাবে আবেদন করবেন?",
+  "quickMistakes": "সাধারণ ভুল"
+}

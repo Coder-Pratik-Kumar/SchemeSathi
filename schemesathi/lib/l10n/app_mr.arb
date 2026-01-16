@@ -1,0 +1,93 @@
+{
+  "@@locale": "mr",
+  "languageName": "Marathi",
+  "appName": "स्कीमसाथी AI",
+  "appSlogan": "नागरिकांना स्पष्टतेसह सक्षम करणे",
+  
+  "chooseLanguage": "तुमची पसंतीची भाषा निवडा",
+  "changeLater": "तुम्ही हे नंतर कधीही बदलू शकता",
+  "continueBtn": "पुढे जा",
+  
+  "occStudent": "विद्यार्थी",
+  "occFarmer": "शेतकरी",
+  "occDailyWage": "रोजंदारी कामगार",
+  "occSalaried": "पगारदार",
+  "occSelfEmployed": "स्वयंरोजगार",
+  "occUnemployed": "बेरोजगार",
+  "occRetired": "निवृत्त",
+  
+  "analyzingSchemes": "सरकारी योजनांचे विश्लेषण करत आहे...",
+  "basedOnOfficial": "अधिकृत सरकारी कागदपत्रांवर आधारित",
+  
+  "resultsTitle": "तुमच्यासाठी निवडलेल्या योजना",
+  "resultsSubtitle": "तुमच्या प्रोफाइलवर आधारित",
+  "youQualify": "तुम्ही पात्र आहात",
+  "schemes": "योजना",
+  "viewDetails": "तपशील पहा",
+  "applyNow": "आता अर्ज करा",
+  "benefits": "फायदे",
+  "eligibility": "पात्रता",
+  
+  "skip": "वगळा",
+  "next": "पुढे",
+  "getStarted": "सुरुवात करा",
+  
+  "onboardingTitle1": "AI-चालित विश्लेषण",
+  "onboardingDesc1": "स्मार्ट अल्गोरिदम हजारो योजनांचे विश्लेषण करतात आणि तुमच्यासाठी योग्य असलेल्या योजना शोधतात.",
+  
+  "onboardingTitle2": "बहुभाषिक समर्थन",
+  "onboardingDesc2": "तुमच्या पसंतीच्या स्थानिक भाषेत माहिती फक्त एका टॅपवर मिळवा.",
+  
+  "onboardingTitle3": "पडताळलेले निकाल",
+  "onboardingDesc3": "केवळ सर्वात अचूक आणि अद्ययावत योजना माहिती देण्यासाठी आमच्या पडताळलेल्या प्रणालीवर विश्वास ठेवा.",
+  
+  "loginWelcome": "पुन्हा स्वागत आहे",
+  "loginSubtitle": "सुरु ठेवण्यासाठी साइन इन करा",
+  "signIn": "साइन इन",
+  "signUp": "खाते तयार करा",
+  "noAccount": "खाते नाही?",
+  "emailLabel": "ईमेल",
+  "passwordLabel": "पासवर्ड",
+  "continueGuest": "पाहुणे म्हणून पुढे जा",
+  
+  "findMyBenefits": "माझे फायदे शोधा",
+  "microAi": "मायक्रो AI विश्लेषण • < 100ms",
+  "ageLabel": "वय",
+  "ageHint": "उदा. 24",
+  "incomeLabel": "वार्षिक उत्पन्न",
+  "incomeHint": "उदा. 500000",
+  "casteLabel": "जात प्रवर्ग",
+  "stateLabel": "राज्य",
+  "occupationLabel": "व्यवसाय",
+  
+  "chipSchemes": "300+ योजना",
+  "chipVerified": "पडताळलेले",
+  "chipOfficial": "अधिकृत",
+  
+  "trustOfficial": "फक्त अधिकृत स्रोत",
+  "trustLogin": "लॉगिन आवश्यक नाही",
+  "trustSecure": "100% सुरक्षित आणि खाजगी",
+
+  "analyzingProfile": "प्रोफाइलचे विश्लेषण करत आहे...",
+  "analyzingDesc": "1000+ अधिकृत सरकारी योजनांविरुद्ध पात्रता तपासत आहे...",
+  "aiTrust": "अधिकृत सरकारी कागदपत्रांवर आधारित",
+  "confidenceScore": "{score}% आत्मविश्वास",
+  "@confidenceScore": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+
+  "userDetailsTitle": "वापरकर्ता तपशील",
+  "disabilityLabel": "दिव्यांग?",
+  
+  "schemeAssistantTitle": "योजना सहाय्यक",
+  "schemeAssistantSubtitle": "टप्प्याटप्प्याने अर्ज करण्यात मदत करत आहे",
+  "chatPlaceholder": "या योजनेबद्दल विचारा...",
+  "quickEligible": "मी पात्र आहे का?",
+  "quickDocs": "आवश्यक कागदपत्रे",
+  "quickApply": "अर्ज कसा करावा?",
+  "quickMistakes": "सामान्य चुका"
+}

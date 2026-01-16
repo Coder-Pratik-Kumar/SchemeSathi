@@ -1,0 +1,86 @@
+{
+  "@@locale": "hi",
+  "languageName": "हिंदी",
+  "appName": "स्कीमसाथी एआई",
+  "appSlogan": "स्पष्टता के साथ नागरिकों को सशक्त बनाना",
+  
+  "chooseLanguage": "अपनी पसंदीदा भाषा चुनें",
+  "changeLater": "आप इसे बाद में कभी भी बदल सकते हैं",
+  "continueBtn": "जारी रखें",
+  
+  "occStudent": "छात्र",
+  "occFarmer": "किसान",
+  "occDailyWage": "दैनिक वेतन भोगी",
+  "occSalaried": "वेतनभोगी",
+  "occSelfEmployed": "स्वरोजगार",
+  "occUnemployed": "बेरोजगार",
+  "occRetired": "सेवानिवृत्त",
+
+  "analyzingSchemes": "सरकारी योजनाओं का विश्लेषण किया जा रहा है...",
+  "basedOnOfficial": "आधिकारिक सरकारी दस्तावेजों पर आधारित",
+
+  "resultsTitle": "आपके लिए चयनित योजनाएं",
+  "resultsSubtitle": "आपकी प्रोफाइल के आधार पर",
+  "youQualify": "आप इसके लिए पात्र हैं",
+  "schemes": "योजनाएं",
+  "viewDetails": "विवरण देखें",
+  "applyNow": "अभी आवेदन करें",
+  "benefits": "लाभ",
+  "eligibility": "पात्रता",
+  
+  "skip": "छोड़ें",
+  "next": "आगे",
+  "getStarted": "शुरू करें",
+  
+  "onboardingTitle1": "AI-संचालित खोज",
+  "onboardingDesc1": "हमारे उन्नत AI विश्लेषण का उपयोग करके अपने लिए सटीक सरकारी योजनाएं खोजें।",
+  
+  "onboardingTitle2": "यह कैसे काम करता है",
+  "onboardingDesc2": "बस हमें अपने बारे में थोड़ा बताएं। हमारा AI आपके लिए सर्वोत्तम मिलान खोजने के लिए हजारों योजनाओं को स्कैन करता है।",
+  
+  "onboardingTitle3": "विश्वसनीय और पारदर्शी",
+  "onboardingDesc3": "हम आधिकारिक स्रोतों का उपयोग करते हैं और हर योजना का सत्यापन करते हैं। आपका डेटा सुरक्षित है और केवल लाभ खोजने के लिए उपयोग किया जाता है।",
+  
+  "loginWelcome": "वापसी पर स्वागत है",
+  "loginSubtitle": "सटीक योजना भविष्यवाणियों के लिए साइन इन करें",
+  "emailLabel": "ईमेल पता",
+  "passwordLabel": "पासवर्ड",
+  "signIn": "साइन इन करें",
+  "noAccount": "क्या आपके पास खाता नहीं है?",
+  "signUp": "साइन अप करें",
+  "continueGuest": "अतिथि के रूप में जारी रखें",
+  
+  "userDetailsTitle": "उपयोगकर्ता विवरण",
+  "ageLabel": "आयु",
+  "ageHint": "वर्ष",
+  "incomeLabel": "वार्षिक आय",
+  "incomeHint": "INR",
+  "casteLabel": "जाति श्रेणी",
+  "stateLabel": "राज्य/केंद्र शासित प्रदेश",
+  "occupationLabel": "व्यवसाय",
+  "disabilityLabel": "दिव्यांग?",
+  "findMyBenefits": "मेरे लाभ खोजें",
+  
+  "chipSchemes": "1000+ योजनाएं",
+  "chipVerified": "AI सत्यापित",
+  "chipOfficial": "आधिकारिक स्रोत",
+  
+  "trustOfficial": "आधिकारिक सरकारी दस्तावेजों का उपयोग करता है",
+  "trustLogin": "किसी लॉगिन की आवश्यकता नहीं",
+  "trustSecure": "सुरक्षित और निजी",
+  "microAi": "आधिकारिक योजनाओं पर आधारित AI-संचालित पात्रता जांच",
+  
+  "analyzingProfile": "प्रोफ़ाइल का विश्लेषण...",
+  "analyzingDesc": "1000+ आधिकारिक सरकारी योजनाओं के खिलाफ पात्रता की जांच कर रहा है...",
+  "aiTrust": "आधिकारिक सरकारी दस्तावेजों पर आधारित",
+  
+  "confidenceScore": "{score}% विश्वास",
+
+  "schemeAssistantTitle": "योजना सहायक",
+  "schemeAssistantSubtitle": "चरण-दर-चरण आवेदन करने में मदद करना",
+  "chatPlaceholder": "इस योजना के बारे में पूछें...",
+  "quickEligible": "क्या मैं पात्र हूँ?",
+  "quickDocs": "आवश्यक दस्तावेज",
+  "quickApply": "आवेदन कैसे करें?",
+  "quickMistakes": "आम गलतियाँ"
+}

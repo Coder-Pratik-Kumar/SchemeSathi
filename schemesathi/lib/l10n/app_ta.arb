@@ -1,0 +1,93 @@
+{
+  "@@locale": "ta",
+  "languageName": "Tamil",
+  "appName": "ஸ்கீம்சாதி AI",
+  "appSlogan": "தெளிவான தகவல்களுடன் குடிமக்களை மேம்படுத்துதல்",
+  
+  "chooseLanguage": "உங்கள் விருப்பமான மொழியைத் தேர்வுசெய்க",
+  "changeLater": "இதை நீங்கள் பின்னர் எப்போது வேண்டுமானாலும் மாற்றலாம்",
+  "continueBtn": "தொடரவும்",
+  
+  "occStudent": "மாணவர்",
+  "occFarmer": "விவசாயி",
+  "occDailyWage": "தினக்கூலி பணியாளர்",
+  "occSalaried": "சம்பளதாரர்",
+  "occSelfEmployed": "சுயதொழில் செய்பவர்",
+  "occUnemployed": "வேலையில்லாதவர்",
+  "occRetired": "ஓய்வுபெற்றவர்",
+  
+  "analyzingSchemes": "அரசு திட்டங்களை ஆய்வு செய்கிறது...",
+  "basedOnOfficial": "அதிகாரப்பூர்வ அரசு ஆவணங்களின் அடிப்படையில்",
+  
+  "resultsTitle": "உங்களுக்கான பரிந்துரைக்கப்பட்ட திட்டங்கள்",
+  "resultsSubtitle": "உங்கள் விவரங்களின் அடிப்படையில்",
+  "youQualify": "நீங்கள் தகுதி பெறுவது",
+  "schemes": "திட்டங்கள்",
+  "viewDetails": "விவரங்களைப் பார்க்க",
+  "applyNow": "இப்போதே விண்ணப்பிக்கவும்",
+  "benefits": "நன்மைகள்",
+  "eligibility": "தகுதி",
+  
+  "skip": "தவிர்",
+  "next": "அடுத்து",
+  "getStarted": "தொடங்குங்கள்",
+  
+  "onboardingTitle1": "AI-ஆற்றல் மிக்க பகுப்பாய்வு",
+  "onboardingDesc1": "ஸ்மார்ட் அல்காரிதம்கள் ஆயிரக்கணக்கான திட்டங்களை ஆய்வு செய்து உங்களுக்கு பொருத்தமானவற்றை கண்டறியும்.",
+  
+  "onboardingTitle2": "பன்மொழி ஆதரவு",
+  "onboardingDesc2": "உங்களுக்கு பிடித்த உள்ளூர் மொழியில் தகவல்களை ஒரே தட்டலில் பெறுங்கள்.",
+  
+  "onboardingTitle3": "சரிபார்க்கப்பட்ட முடிவுகள்",
+  "onboardingDesc3": "மிகவும் துல்லியமான மற்றும் புதுப்பிக்கப்பட்ட திட்ட தகவல்களை வழங்க எங்கள் சரிபார்க்கப்பட்ட அமைப்பை நம்புங்கள்.",
+  
+  "loginWelcome": "மீண்டும் வருக",
+  "loginSubtitle": "தொடர உள்நுழையவும்",
+  "signIn": "உள்நுழைய",
+  "signUp": "கணக்கை உருவாக்கவும்",
+  "noAccount": "கணக்கு இல்லையா?",
+  "emailLabel": "மின்னஞ்சல்",
+  "passwordLabel": "கடவுச்சொல்",
+  "continueGuest": "விருந்தினராகத் தொடரவும்",
+  
+  "findMyBenefits": "எனக்கான பலன்களைக் கண்டறியவும்",
+  "microAi": "மைக்ரோ AI பகுப்பாய்வு • < 100ms",
+  "ageLabel": "வயது",
+  "ageHint": "எ.கா. 24",
+  "incomeLabel": "ஆண்டு வருமானம்",
+  "incomeHint": "எ.கா. 500000",
+  "casteLabel": "சாதி பிரிவு",
+  "stateLabel": "மாநிலம்",
+  "occupationLabel": "தொழில்",
+  
+  "chipSchemes": "300+ திட்டங்கள்",
+  "chipVerified": "சரிபார்க்கப்பட்டது",
+  "chipOfficial": "அதிகாரப்பூர்வமானது",
+  
+  "trustOfficial": "அதிகாரப்பூர்வ ஆதாரங்கள் மட்டும்",
+  "trustLogin": "உள்நுழைவு தேவையில்லை",
+  "trustSecure": "100% பாதுகாப்பானது & தனிப்பட்ட",
+  
+  "analyzingProfile": "சுயவிவரப் பகுப்பாய்வு...",
+  "analyzingDesc": "1000+ அரசு திட்டங்களுடன் தகுதியை சரிபார்க்கிறது...",
+  "aiTrust": "அதிகாரப்பூர்வ அரசு ஆவணங்களின் அடிப்படையில்",
+  "confidenceScore": "{score}% நம்பிக்கை",
+  "@confidenceScore": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+
+  "userDetailsTitle": "பயனர் விவரங்கள்",
+  "disabilityLabel": "மாற்றுத்திறனாளியா?",
+
+  "schemeAssistantTitle": "திட்ட உதவியாளர்",
+  "schemeAssistantSubtitle": "படிப்படியாக விண்ணப்பிக்க உதவுகிறது",
+  "chatPlaceholder": "இந்தத் திட்டத்தைப் பற்றி கேளுங்கள்...",
+  "quickEligible": "நான் தகுதியானவனா?",
+  "quickDocs": "தேவையான ஆவணங்கள்",
+  "quickApply": "எப்படி விண்ணப்பிப்பது?",
+  "quickMistakes": "பொதுவான தவறுகள்"
+}

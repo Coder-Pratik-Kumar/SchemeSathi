@@ -1,0 +1,94 @@
+{
+  "@@locale": "en",
+  "languageName": "English",
+  "appName": "SchemeSathi AI",
+  "appSlogan": "Empowering citizens with clarity",
+  
+  "chooseLanguage": "Choose Your Preferred Language",
+  "changeLater": "You can change this anytime later",
+  "continueBtn": "Continue",
+  
+  "occStudent": "Student",
+  "occFarmer": "Farmer",
+  "occDailyWage": "Daily Wage Worker",
+  "occSalaried": "Salaried",
+  "occSelfEmployed": "Self-Employed",
+  "occUnemployed": "Unemployed",
+  "occRetired": "Retired",
+  
+  "analyzingSchemes": "Analyzing government schemes...",
+  "basedOnOfficial": "Based on official government documents",
+  
+  "resultsTitle": "Curated Schemes for You",
+  "resultsSubtitle": "Based on your profile",
+  "youQualify": "You qualify for",
+  "schemes": "schemes",
+  "viewDetails": "View Details",
+  "applyNow": "Apply Now",
+  "benefits": "Benefits",
+  "eligibility": "Eligibility",
+  
+  "skip": "Skip",
+  "next": "Next",
+  "getStarted": "Get Started",
+  
+  "onboardingTitle1": "AI-Powered Discovery",
+  "onboardingDesc1": "Find the perfect government schemes tailored just for you using our advanced AI analysis.",
+  
+  "onboardingTitle2": "How It Works",
+  "onboardingDesc2": "Simply tell us a bit about yourself. Our AI scans thousands of schemes to find your best matches.",
+  
+  "onboardingTitle3": "Trusted & Transparent",
+  "onboardingDesc3": "We use official sources and verify every scheme. Your data is safe and used only for finding benefits.",
+  
+  "loginWelcome": "Welcome Back",
+  "loginSubtitle": "Sign in to accurate scheme predictions",
+  "emailLabel": "Email Address",
+  "passwordLabel": "Password",
+  "signIn": "Sign In",
+  "noAccount": "Don't have an account?",
+  "signUp": "Sign Up",
+  "continueGuest": "Continue as Guest",
+  
+  "userDetailsTitle": "User Details",
+  "ageLabel": "Age",
+  "ageHint": "Years",
+  "incomeLabel": "Annual Income",
+  "incomeHint": "INR",
+  "casteLabel": "Caste Category",
+  "stateLabel": "State/UT",
+  "occupationLabel": "Occupation",
+  "disabilityLabel": "Differently Abled?",
+  "findMyBenefits": "Find My Benefits",
+  
+  "chipSchemes": "1000+ Schemes",
+  "chipVerified": "AI Verified",
+  "chipOfficial": "Official Sources",
+  
+  "trustOfficial": "Uses official government documents",
+  "trustLogin": "No login required",
+  "trustSecure": "Secure & private",
+  "microAi": "AI-powered eligibility check based on official schemes",
+  
+  "analyzingProfile": "Analyzing Profile...",
+  "analyzingDesc": "Checking eligibility against 1000+ official government schemes...",
+  "aiTrust": "Based on official government documents",
+  
+  "confidenceScore": "{score}% Confidence",
+  "@confidenceScore": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+
+  "schemeAssistantTitle": "Scheme Assistant",
+  "schemeAssistantSubtitle": "Helping you apply step-by-step",
+  "chatPlaceholder": "Ask about this scheme...",
+  "quickEligible": "Am I eligible?",
+  "quickDocs": "Required documents",
+  "quickApply": "How to apply?",
+  "quickMistakes": "Common mistakes"
+}
+

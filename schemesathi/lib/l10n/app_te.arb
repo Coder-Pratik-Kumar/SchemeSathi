@@ -1,0 +1,93 @@
+{
+  "@@locale": "te",
+  "languageName": "Telugu",
+  "appName": "స్కీమ్‌సాథి AI",
+  "appSlogan": "పౌరులకు స్పష్టతతో సాధికారత",
+  
+  "chooseLanguage": "మీకు నచ్చిన భాషను ఎంచుకోండి",
+  "changeLater": "మీరు దీన్ని తర్వాత ఎప్పుడైనా మార్చుకోవచ్చు",
+  "continueBtn": "కొనసాగించండి",
+  
+  "occStudent": "విద్యార్థి",
+  "occFarmer": "రైతు",
+  "occDailyWage": "రోజువారీ కూలీ",
+  "occSalaried": "ఉద్యోగి",
+  "occSelfEmployed": "స్వయం ఉపాధి",
+  "occUnemployed": "నిరుద్యోగి",
+  "occRetired": "రిటైర్డ్",
+  
+  "analyzingSchemes": "ప్రభుత్వ పథకాలను విశ్లేషిస్తోంది...",
+  "basedOnOfficial": "అధికారిక ప్రభుత్వ పత్రాల ఆధారంగా",
+  
+  "resultsTitle": "మీ కోసం ఎంపిక చేసిన పథకాలు",
+  "resultsSubtitle": "మీ వివరాల ఆధారంగా",
+  "youQualify": "మీరు అర్హులు",
+  "schemes": "పథకాలు",
+  "viewDetails": "వివరాలను చూడండి",
+  "applyNow": "ఇప్పుడే దరఖాస్తు చేయండి",
+  "benefits": "ప్రయోజనాలు",
+  "eligibility": "అర్హత",
+  
+  "skip": "వదిలేయండి",
+  "next": "తర్వాత",
+  "getStarted": "ప్రారంభించండి",
+  
+  "onboardingTitle1": "AI-ఆధారిత విశ్లేషణ",
+  "onboardingDesc1": "స్మార్ట్ అల్గారిథమ్‌లు వేలాది పథకాలను విశ్లేషించి మీకు సరిగ్గా సరిపోయేవాటిని కనుగొంటాయి.",
+  
+  "onboardingTitle2": "బహుభాషా మద్దతు",
+  "onboardingDesc2": "మీకు నచ్చిన స్థానిక భాషలో సమాచారాన్ని కేవలం ఒక ట్యాప్‌తో పొందండి.",
+  
+  "onboardingTitle3": "ధృవీకరించబడిన ఫలితాలు",
+  "onboardingDesc3": "అత్యంత ఖచ్చితమైన మరియు తాజా పథక సమాచారాన్ని అందించడానికి మా ధృవీకరించబడిన సిస్టమ్‌ను నమ్మండి.",
+  
+  "loginWelcome": "తిరిగి స్వాగతం",
+  "loginSubtitle": "కొనసాగడానికి సైన్ ఇన్ చేయండి",
+  "signIn": "సైన్ ఇన్",
+  "signUp": "ఖాతాను సృష్టించండి",
+  "noAccount": "ఖాతా లేదా?",
+  "emailLabel": "ఇమెయిల్",
+  "passwordLabel": "పాస్‌వర్డ్",
+  "continueGuest": "అతిథిగా కొనసాగండి",
+  
+  "findMyBenefits": "నా ప్రయోజనాలను కనుగొనండి",
+  "microAi": "మైక్రో AI విశ్లేషణ • < 100ms",
+  "ageLabel": "వయస్సు",
+  "ageHint": "ఉదా. 24",
+  "incomeLabel": "వార్షిక ఆదాయం",
+  "incomeHint": "ఉదా. 500000",
+  "casteLabel": "కుల వర్గం",
+  "stateLabel": "రాష్ట్రం",
+  "occupationLabel": "వృత్తి",
+  
+  "chipSchemes": "300+ పథకాలు",
+  "chipVerified": "ధృవీకరించబడింది",
+  "chipOfficial": "అధికారిక",
+  
+  "trustOfficial": "అధికారిక మూలాలు మాత్రమే",
+  "trustLogin": "లాగిన్ అవసరం లేదు",
+  "trustSecure": "100% సురక్షితం & గోప్యం",
+
+  "analyzingProfile": "ప్రొఫైల్ విశ్లేషించబడుతోంది...",
+  "analyzingDesc": "1000+ అధికారిక ప్రభుత్వ పథకాలతో అర్హత తనిఖీ చేయబడుతోంది...",
+  "aiTrust": "అధికారిక ప్రభుత్వ పత్రాల ఆధారంగా",
+  "confidenceScore": "{score}% విశ్వాసం",
+  "@confidenceScore": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+
+  "userDetailsTitle": "వినియోగదారు వివరాలు",
+  "disabilityLabel": "వికలాంగులా?",
+
+  "schemeAssistantTitle": "పథకం సహాయకుడు",
+  "schemeAssistantSubtitle": "దశలవారీగా దరఖాస్తు చేసుకోవడానికి సహాయం",
+  "chatPlaceholder": "ఈ పథకం గురించి అడగండి...",
+  "quickEligible": "నేను అర్హుడినా?",
+  "quickDocs": "అవసరమైన పత్రాలు",
+  "quickApply": "ఎలా దరఖాస్తు చేయాలి?",
+  "quickMistakes": "సాధారణ తప్పులు"
+}

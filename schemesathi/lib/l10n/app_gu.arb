@@ -1,0 +1,93 @@
+{
+  "@@locale": "gu",
+  "languageName": "Gujarati",
+  "appName": "સ્કીમસાથી AI",
+  "appSlogan": "નાગરિકોને સ્પષ્ટતા સાથે સશક્ત બનાવવું",
+  
+  "chooseLanguage": "તમારી પસંદગીની ભાષા પસંદ કરો",
+  "changeLater": "તમે આ પછીથી ગમે ત્યારે બદલી શકો છો",
+  "continueBtn": "ચાલુ રાખો",
+  
+  "occStudent": "વિદ્યાર્થી",
+  "occFarmer": "ખેડૂત",
+  "occDailyWage": "દૈનિક વેતન કામદાર",
+  "occSalaried": "પગારદાર",
+  "occSelfEmployed": "સ્વ-રોજગાર",
+  "occUnemployed": "બેરોજગાર",
+  "occRetired": "નિવૃત્ત",
+  
+  "analyzingSchemes": "સરકારી યોજનાઓનું વિશ્લેષણ કરી રહ્યું છે...",
+  "basedOnOfficial": "સત્તાવાર સરકારી દસ્તાવેજોના આધારે",
+  
+  "resultsTitle": "તમારા માટે ક્યુરેટેડ યોજનાઓ",
+  "resultsSubtitle": "તમારી પ્રોફાઇલના આધારે",
+  "youQualify": "તમે લાયક છો",
+  "schemes": "યોજનાઓ",
+  "viewDetails": "વિગતો જુઓ",
+  "applyNow": "હવે અરજી કરો",
+  "benefits": "લાભો",
+  "eligibility": "પાત્રતા",
+  
+  "skip": "છોડી દો",
+  "next": "આગળ",
+  "getStarted": "શરૂ કરો",
+  
+  "onboardingTitle1": "AI-સંચાલિત વિશ્લેષણ",
+  "onboardingDesc1": "સ્માર્ટ અલ્ગોરિધમ્સ હજારો યોજનાઓનું વિશ્લેષણ કરે છે જેથી તમારા માટે બિલકુલ યોગ્ય યોજનાઓ શોધી શકાય.",
+  
+  "onboardingTitle2": "બહુભાષી સપોર્ટ",
+  "onboardingDesc2": "તમારી પસંદગીની સ્થાનિક ભાષામાં માહિતી માત્ર એક ટેપથી મેળવો.",
+  
+  "onboardingTitle3": "ચકાસાયેલ પરિણામો",
+  "onboardingDesc3": "માત્ર સૌથી સચોટ અને અદ્યતન યોજના માહિતી પ્રદાન કરવા માટે અમારી ચકાસાયેલ સિસ્ટમ પર વિશ્વાસ કરો.",
+  
+  "loginWelcome": "ફરી સ્વાગત છે",
+  "loginSubtitle": "ચાલુ રાખવા માટે સાઇન ઇન કરો",
+  "signIn": "સાઇન ઇન",
+  "signUp": "ખાતું બનાવો",
+  "noAccount": "ખાતું નથી?",
+  "emailLabel": "ઇમેઇલ",
+  "passwordLabel": "પાસવર્ડ",
+  "continueGuest": "મહેમાન તરીકે ચાલુ રાખો",
+  
+  "findMyBenefits": "મારા લાભો શોધો",
+  "microAi": "માઇક્રો AI વિશ્લેષણ • < 100ms",
+  "ageLabel": "ઉંમર",
+  "ageHint": "દા.ત. 24",
+  "incomeLabel": "વાર્ષિક આવક",
+  "incomeHint": "દા.ત. 500000",
+  "casteLabel": "જાતિ શ્રેણી",
+  "stateLabel": "રાજ્ય",
+  "occupationLabel": "વ્યવસાય",
+  
+  "chipSchemes": "300+ યોજનાઓ",
+  "chipVerified": "ચકાસાયેલ",
+  "chipOfficial": "સત્તાવાર",
+  
+  "trustOfficial": "માત્ર સત્તાવાર સ્ત્રોત",
+  "trustLogin": "લોગિન જરૂરી નથી",
+  "trustSecure": "100% સુરક્ષિત અને ખાનગી",
+
+  "analyzingProfile": "પ્રોફાઇલનું વિશ્લેષણ કરી રહ્યું છે...",
+  "analyzingDesc": "1000+ સત્તાવાર સરકારી યોજનાઓ સામે લાયકાત તપાસી રહ્યું છે...",
+  "aiTrust": "સત્તાવાર સરકારી દસ્તાવેજોના આધારે",
+  "confidenceScore": "{score}% આત્મવિશ્વાસ",
+  "@confidenceScore": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+
+  "userDetailsTitle": "વપરાશકર્તા વિગતો",
+  "disabilityLabel": "વિકલાંગ?",
+
+  "schemeAssistantTitle": "યોજના સહાયક",
+  "schemeAssistantSubtitle": "પગલું દ્વારા પગલું અરજી કરવામાં મદદ કરી રહ્યું છે",
+  "chatPlaceholder": "આ યોજના વિશે પૂછો...",
+  "quickEligible": "શું હું લાયક છું?",
+  "quickDocs": "જરૂરી દસ્તાવેજો",
+  "quickApply": "કેવી રીતે અરજી કરવી?",
+  "quickMistakes": "સામાન્ય ભૂલો"
+}

@@ -1,0 +1,93 @@
+{
+  "@@locale": "pa",
+  "languageName": "Punjabi",
+  "appName": "ਸਕੀਮਸਾਥੀ AI",
+  "appSlogan": "ਨਾਗਰਿਕਾਂ ਨੂੰ ਸਪਸ਼ਟਤਾ ਨਾਲ ਸ਼ਕਤੀਕਰਨ",
+  
+  "chooseLanguage": "ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ",
+  "changeLater": "ਤੁਸੀਂ ਇਸਨੂੰ ਬਾਅਦ ਵਿੱਚ ਕਦੇ ਵੀ ਬਦਲ ਸਕਦੇ ਹੋ",
+  "continueBtn": "ਜਾਰੀ ਰੱਖੋ",
+  
+  "occStudent": "ਵਿਦਿਆਰਥੀ",
+  "occFarmer": "ਕਿਸਾਨ",
+  "occDailyWage": "ਦਿਹਾੜੀਦਾਰ ਮਜ਼ਦੂਰ",
+  "occSalaried": "ਤਨਖਾਹਦਾਰ",
+  "occSelfEmployed": "ਸਵੈ-ਰੁਜ਼ਗਾਰ",
+  "occUnemployed": "ਬੇਰੁਜ਼ਗਾਰ",
+  "occRetired": "ਸੇਵਾਮੁਕਤ",
+  
+  "analyzingSchemes": "ਸਰਕਾਰੀ ਸਕੀਮਾਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+  "basedOnOfficial": "ਅਧਿਕਾਰਤ ਸਰਕਾਰੀ ਦਸਤਾਵੇਜ਼ਾਂ 'ਤੇ ਆਧਾਰਿਤ",
+  
+  "resultsTitle": "ਤੁਹਾਡੇ ਲਈ ਚੁਣੀਆਂ ਗਈਆਂ ਸਕੀਮਾਂ",
+  "resultsSubtitle": "ਤੁਹਾਡੀ ਪ੍ਰੋਫਾਈਲ 'ਤੇ ਆਧਾਰਿਤ",
+  "youQualify": "ਤੁਸੀਂ ਯੋਗ ਹੋ",
+  "schemes": "ਸਕੀਮਾਂ",
+  "viewDetails": "ਵੇਰਵੇ ਦੇਖੋ",
+  "applyNow": "ਹੁਣੇ ਅਪਲਾਈ ਕਰੋ",
+  "benefits": "ਲਾਭ",
+  "eligibility": "ਯੋਗਤਾ",
+  
+  "skip": "ਛੱਡੋ",
+  "next": "ਅੱਗੇ",
+  "getStarted": "ਸ਼ੁਰੂ ਕਰੋ",
+  
+  "onboardingTitle1": "AI-ਸੰਚਾਲਿਤ ਵਿਸ਼ਲੇਸ਼ਣ",
+  "onboardingDesc1": "ਸਮਾਰਟ ਐਲਗੋਰਿਦਮ ਹਜ਼ਾਰਾਂ ਸਕੀਮਾਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਦੇ ਹਨ ਤਾਂ ਜੋ ਤੁਹਾਡੇ ਲਈ ਬਿਲਕੁਲ ਸਹੀ ਸਕੀਮਾਂ ਲੱਭੀਆਂ ਜਾ ਸਕਣ।",
+  
+  "onboardingTitle2": "ਬਹੁ-ਭਾਸ਼ਾਈ ਸਹਾਇਤਾ",
+  "onboardingDesc2": "ਆਪਣੀ ਪਸੰਦੀਦਾ ਸਥਾਨਕ ਭਾਸ਼ਾ ਵਿੱਚ ਜਾਣਕਾਰੀ ਸਿਰਫ਼ ਇੱਕ ਟੈਪ ਨਾਲ ਪ੍ਰਾਪਤ ਕਰੋ।",
+  
+  "onboardingTitle3": "ਤਸਦੀਕਸ਼ੁਦਾ ਨਤੀਜੇ",
+  "onboardingDesc3": "ਸਿਰਫ਼ ਸਭ ਤੋਂ ਸਹੀ ਅਤੇ ਨਵੀਨਤਮ ਸਕੀਮ ਜਾਣਕਾਰੀ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਸਾਡੇ ਤਸਦੀਕਸ਼ੁਦਾ ਸਿਸਟਮ 'ਤੇ ਭਰੋਸਾ ਕਰੋ।",
+  
+  "loginWelcome": "ਵਾਪਸ ਸੁਆਗਤ ਹੈ",
+  "loginSubtitle": "ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ",
+  "signIn": "ਸਾਈਨ ਇਨ",
+  "signUp": "ਖਾਤਾ ਬਣਾਓ",
+  "noAccount": "ਕੀ ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+  "emailLabel": "ਈਮੇਲ",
+  "passwordLabel": "ਪਾਸਵਰਡ",
+  "continueGuest": "ਮਹਿਮਾਨ ਵਜੋਂ ਜਾਰੀ ਰੱਖੋ",
+  
+  "findMyBenefits": "ਮੇਰੇ ਲਾਭ ਲੱਭੋ",
+  "microAi": "ਮਾਈਕ੍ਰੋ AI ਵਿਸ਼ਲੇਸ਼ਣ • < 100ms",
+  "ageLabel": "ਉਮਰ",
+  "ageHint": "ਉਦਾ. 24",
+  "incomeLabel": "ਸਾਲਾਨਾ ਆਮਦਨ",
+  "incomeHint": "ਉਦਾ 500000",
+  "casteLabel": "ਜਾਤੀ ਸ਼੍ਰੇਣੀ",
+  "stateLabel": "ਰਾਜ",
+  "occupationLabel": "ਕਿੱਤਾ",
+  
+  "chipSchemes": "300+ ਸਕੀਮਾਂ",
+  "chipVerified": "ਤਸਦੀਕਸ਼ੁਦਾ",
+  "chipOfficial": "ਅਧਿਕਾਰਤ",
+  
+  "trustOfficial": "ਸਿਰਫ਼ ਅਧਿਕਾਰਤ ਸਰੋਤ",
+  "trustLogin": "ਲੌਗਇਨ ਦੀ ਲੋੜ ਨਹੀਂ",
+  "trustSecure": "100% ਸੁਰੱਖਿਅਤ ਅਤੇ ਨਿੱਜੀ",
+
+  "analyzingProfile": "ਪ੍ਰੋਫਾਈਲ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+  "analyzingDesc": "1000+ ਅਧਿਕਾਰਤ ਸਰਕਾਰੀ ਸਕੀਮਾਂ ਦੇ ਵਿਰੁੱਧ ਯੋਗਤਾ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...",
+  "aiTrust": "ਅਧਿਕਾਰਤ ਸਰਕਾਰੀ ਦਸਤਾਵੇਜ਼ਾਂ 'ਤੇ ਅਧਾਰਤ",
+  "confidenceScore": "{score}% ਭਰੋਸਾ",
+  "@confidenceScore": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+
+  "userDetailsTitle": "ਉਪਭੋਗਤਾ ਵੇਰਵੇ",
+  "disabilityLabel": "ਅਪਾਹਜ?",
+
+  "schemeAssistantTitle": "ਸਕੀਮ ਸਹਾਇਕ",
+  "schemeAssistantSubtitle": "ਕਦਮ-ਦਰ-ਕਦਮ ਅਰਜ਼ੀ ਦੇਣ ਵਿੱਚ ਮਦਦ ਕਰਨਾ",
+  "chatPlaceholder": "ਇਸ ਸਕੀਮ ਬਾਰੇ ਪੁੱਛੋ...",
+  "quickEligible": "ਕੀ ਮੈਂ ਯੋਗ ਹਾਂ?",
+  "quickDocs": "ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼",
+  "quickApply": "ਕਿਵੇਂ ਅਪਲਾਈ ਕਰਨਾ ਹੈ?",
+  "quickMistakes": "ਆਮ ਗਲਤੀਆਂ"
+}

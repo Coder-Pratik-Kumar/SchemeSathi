@@ -1,0 +1,93 @@
+{
+  "@@locale": "kn",
+  "languageName": "Kannada",
+  "appName": "ಸ್ಕೀಮ್‌ಸಾಥಿ AI",
+  "appSlogan": "ನಾಗರಿಕರನ್ನು ಸ್ಪಷ್ಟತೆಯೊಂದಿಗೆ ಸಬಲೀಕರಣಗೊಳಿಸುವುದು",
+  
+  "chooseLanguage": "ನಿಮ್ಮ ಆದ್ಯತೆಯ ಭಾಷೆಯನ್ನು ಆರಿಸಿ",
+  "changeLater": "ನೀವು ಇದನ್ನು ನಂತರ ಯಾವಾಗ ಬೇಕಾದರೂ ಬದಲಾಯಿಸಬಹುದು",
+  "continueBtn": "ಮುಂದುವರಿಸಿ",
+  
+  "occStudent": "ವಿದ್ಯಾರ್ಥಿ",
+  "occFarmer": "ರೈತ",
+  "occDailyWage": "ದಿನಗೂಲಿ ನೌಕರ",
+  "occSalaried": "ಸಂಬಳದ ನೌಕರ",
+  "occSelfEmployed": "ಸ್ವಯಂ ಉದ್ಯೋಗಿ",
+  "occUnemployed": "ನಿರುದ್ಯೋಗಿ",
+  "occRetired": "ನಿವೃತ್ತ",
+  
+  "analyzingSchemes": "ಸರ್ಕಾರಿ ಯೋಜನೆಗಳನ್ನು ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ...",
+  "basedOnOfficial": "ಅಧಿಕೃತ ಸರ್ಕಾರಿ ದಾಖಲೆಗಳನ್ನು ಆಧರಿಸಿದೆ",
+  
+  "resultsTitle": "ನಿಮಗಾಗಿ ಆಯ್ದ ಯೋಜನೆಗಳು",
+  "resultsSubtitle": "ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಆಧರಿಸಿ",
+  "youQualify": "ನೀವು ಅರ್ಹರು",
+  "schemes": "ಯೋಜನೆಗಳು",
+  "viewDetails": "ವಿವರಗಳನ್ನು ನೋಡಿ",
+  "applyNow": "ಈಗಲೇ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ",
+  "benefits": "ಪ್ರಯೋಜನಗಳು",
+  "eligibility": "ಅರ್ಹತೆ",
+  
+  "skip": "ಸ್ಕಿಪ್ ಮಾಡಿ",
+  "next": "ಮುಂದೆ",
+  "getStarted": "ಪ್ರಾರಂಭಿಸಿ",
+  
+  "onboardingTitle1": "AI-ಚಾಲಿತ ವಿಶ್ಲೇಷಣೆ",
+  "onboardingDesc1": "ಸ್ಮಾರ್ಟ್ ಅಲ್ಗಾರಿದಮ್‌ಗಳು ಸಾವಿರಾರು ಯೋಜನೆಗಳನ್ನು ವಿಶ್ಲೇಷಿಸಿ ನಿಮಗೆ ಸರಿಯಾಗಿ ಹೊಂದುವ ಯೋಜನೆಗಳನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತವೆ.",
+  
+  "onboardingTitle2": "ಬಹುಭಾಷಾ ಬೆಂಬಲ",
+  "onboardingDesc2": "ನಿಮ್ಮ ಆದ್ಯತೆಯ ಸ್ಥಳೀಯ ಭಾಷೆಯಲ್ಲಿ ಮಾಹಿತಿಯನ್ನು ಕೇವಲ ಒಂದು ಟ್ಯಾಪ್ ಮೂಲಕ ಪಡೆಯಿರಿ.",
+  
+  "onboardingTitle3": "ಪರಿಶೀಲಿಸಿದ ಫಲಿತಾಂಶಗಳು",
+  "onboardingDesc3": "ಅತ್ಯಂತ ನಿಖರ ಮತ್ತು ನವೀಕೃತ ಯೋಜನೆಯ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಲು ನಮ್ಮ ಪರಿಶೀಲಿಸಿದ ವ್ಯವಸ್ಥೆಯನ್ನು ನಂಬಿರಿ.",
+  
+  "loginWelcome": "ಮತ್ತೆ ಸ್ವಾಗತ",
+  "loginSubtitle": "ಮುಂದುವರಿಯಲು ಸೈನ್ ಇನ್ ಮಾಡಿ",
+  "signIn": "ಸೈನ್ ಇನ್",
+  "signUp": "ಖಾತೆ ರಚಿಸಿ",
+  "noAccount": "ಖಾತೆ ಇಲ್ಲವೇ?",
+  "emailLabel": "ಇಮೇಲ್",
+  "passwordLabel": "ಪಾಸ್‌ವರ್ಡ್",
+  "continueGuest": "ಅತಿಥಿಯಾಗಿ ಮುಂದುವರಿಸಿ",
+  
+  "findMyBenefits": "ನನ್ನ ಪ್ರಯೋಜನಗಳನ್ನು ಹುಡುಕಿ",
+  "microAi": "ಮೈಕ್ರೋ AI ವಿಶ್ಲೇಷಣೆ • < 100ms",
+  "ageLabel": "ವಯಸ್ಸು",
+  "ageHint": "ಉದಾ. 24",
+  "incomeLabel": "ವಾರ್ಷಿಕ ಆದಾಯ",
+  "incomeHint": "ಉದಾ. 500000",
+  "casteLabel": "ಜಾತಿ ವರ್ಗ",
+  "stateLabel": "ರಾಜ್ಯ",
+  "occupationLabel": "ವೃತ್ತಿ",
+  
+  "chipSchemes": "300+ ಯೋಜನೆಗಳು",
+  "chipVerified": "ಪರಿಶೀಲಿಸಲಾಗಿದೆ",
+  "chipOfficial": "ಅಧಿಕೃತ",
+  
+  "trustOfficial": "ಅಧಿಕೃತ ಮೂಲಗಳು ಮಾತ್ರ",
+  "trustLogin": "ಲಾಗಿನ್ ಅಗತ್ಯವಿಲ್ಲ",
+  "trustSecure": "100% ಸುರಕ್ಷಿತ ಮತ್ತು ಖಾಸಗಿ",
+
+  "analyzingProfile": "ಪ್ರೊಫೈಲ್ ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ...",
+  "analyzingDesc": "1000+ ಅಧಿಕೃತ ಸರ್ಕಾರಿ ಯೋಜನೆಗಳ ವಿರುದ್ಧ ಅರ್ಹತೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...",
+  "aiTrust": "ಅಧಿಕೃತ ಸರ್ಕಾರಿ ದಾಖಲೆಗಳನ್ನು ಆಧರಿಸಿದೆ",
+  "confidenceScore": "{score}% ವಿಶ್ವಾಸ",
+  "@confidenceScore": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+
+  "userDetailsTitle": "ಬಳಕೆದಾರರ ವಿವರಗಳು",
+  "disabilityLabel": "ವಿಕಲಚೇತನರೇ?",
+
+  "schemeAssistantTitle": "ಯೋಜನೆ ಸಹಾಯಕ",
+  "schemeAssistantSubtitle": "ಹಂತ ಹಂತವಾಗಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಲು ಸಹಾಯ ಮಾಡಲಾಗುತ್ತಿದೆ",
+  "chatPlaceholder": "ಈ ಯೋಜನೆಯ ಬಗ್ಗೆ ಕೇಳಿ...",
+  "quickEligible": "ನಾನು ಅರ್ಹನೇ?",
+  "quickDocs": "ಅಗತ್ಯ ದಾಖಲೆಗಳು",
+  "quickApply": "ಅರ್ಜಿ ಸಲ್ಲಿಸುವುದು ಹೇಗೆ?",
+  "quickMistakes": "ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು"
+}
