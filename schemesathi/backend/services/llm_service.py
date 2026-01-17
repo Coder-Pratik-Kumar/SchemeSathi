@@ -1,4 +1,9 @@
-import google.generativeai as genai
+try:
+    import google.generativeai as genai
+    genai_available = True
+except ImportError:
+    genai_available = False
+
 import os
 from dotenv import load_dotenv
 
@@ -7,11 +12,17 @@ load_dotenv()
 
 # Configure Gemini
 api_key = os.getenv("GEMINI_API_KEY")
-if api_key:
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-flash-latest') # Updated to match working test_gemini.py
+model = None
+
+if genai_available and api_key:
+    try:
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel('gemini-flash-latest')
+    except Exception as e:
+        print(f"ERROR: Failed to configure Gemini: {e}")
+elif not genai_available:
+    print("WARNING: google-generativeai package not installed. LLM features will be disabled.")
 else:
-    model = None
     print("WARNING: GEMINI_API_KEY not found in environment variables.")
 
 def generate_answer_from_llm(context: str, query: str, history: list = []):
