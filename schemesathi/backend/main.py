@@ -4,6 +4,7 @@ from firebase_config import get_firestore_db
 from models import SchemeResponse, UserProfile, PaginatedSchemes, ChatRequest
 import firebase_admin
 from services.llm_service import generate_answer_from_llm, get_scheme_context
+from services.translation_service import translate_text, translate_object
 import traceback
 
 app = FastAPI(title="SchemeSathi Backend", version="1.0.0")
@@ -34,7 +35,7 @@ def map_firestore_to_schema(doc) -> dict:
     return data
 
 @app.get("/schemes", response_model=PaginatedSchemes)
-def read_schemes(skip: int = 0, limit: int = 10, search: Optional[str] = None):
+async def read_schemes(skip: int = 0, limit: int = 10, search: Optional[str] = None, lang: str = "en"):
     try:
         db = get_firestore_db()
         schemes_ref = db.collection("schemes")
@@ -56,20 +57,33 @@ def read_schemes(skip: int = 0, limit: int = 10, search: Optional[str] = None):
         total = len(all_items)
         start = skip
         end = skip + limit
-        paginated_items = all_items[start:end]
+        # Translation
+        if lang != "en":
+            translated_items = []
+            for item in paginated_items:
+                translated_item = await translate_object(
+                    item, 
+                    ["name", "ministry", "eligibility", "benefits", "description"],
+                    "en", 
+                    lang
+                )
+                translated_items.append(SchemeResponse(**translated_item))
+            paginated_items_final = translated_items
+        else:
+            paginated_items_final = [SchemeResponse(**i) for i in paginated_items]
         
         return {
             "total": total,
             "page": (skip // limit) + 1,
             "size": limit,
-            "items": [SchemeResponse(**i) for i in paginated_items]
+            "items": paginated_items_final
         }
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/schemes/eligible", response_model=List[SchemeResponse])
-def check_eligibility(user: UserProfile):
+async def check_eligibility(user: UserProfile):
     try:
         db = get_firestore_db()
         schemes_ref = db.collection("schemes")
@@ -103,7 +117,20 @@ def check_eligibility(user: UserProfile):
             
             # Map to UI Schema
             mapped_data = map_firestore_to_schema(doc)
-            eligible_schemes.append(SchemeResponse(**mapped_data))
+            
+            # --- Multilingual Support ---
+            # Translate specific fields before returning
+            if user.language != "en":
+                # Translate Name, Ministry, Eligibility text, and Benefits
+                translated_data = await translate_object(
+                    mapped_data, 
+                    ["name", "ministry", "eligibility", "benefits", "description"],
+                    "en", 
+                    user.language
+                )
+                eligible_schemes.append(SchemeResponse(**translated_data))
+            else:
+                eligible_schemes.append(SchemeResponse(**mapped_data))
             
         return eligible_schemes
 
@@ -117,7 +144,7 @@ def check_eligibility(user: UserProfile):
         }
 
 @app.post("/chat")
-def chat_with_bot(request: ChatRequest):
+async def chat_with_bot(request: ChatRequest):
     # STEP 2: Add Hard Logs
     print("CHAT API HIT")
     print("User message:", request.message)
@@ -125,6 +152,10 @@ def chat_with_bot(request: ChatRequest):
     print("Language:", request.language)
 
     try:
+        # 1. INPUT TRANSLATION: Translate incoming message to English
+        english_message = await translate_text(request.message, request.language, "en")
+        print("English Message:", english_message)
+
         db = get_firestore_db()
         scheme_ref = db.collection("schemes").document(request.scheme_id)
         doc = scheme_ref.get()
@@ -140,12 +171,19 @@ def chat_with_bot(request: ChatRequest):
         context = get_scheme_context(scheme_data)
         
         print("CALLING LLM SERVICE NOW")
-        # Determine strictness based on request (optional)
-        # For now, always use the enhanced LLM stub
-        answer = generate_answer_from_llm(context, request.message, request.history)
-        print("LLM RESPONSE:", answer)
+        # 2. CORE LOGIC: Get LLM answer in English
+        answer = generate_answer_from_llm(context, english_message, request.history)
+        print("LLM RESPONSE (EN):", answer)
         
-        return {"response": answer}
+        # 3. OUTPUT TRANSLATION: Translate English answer back to User Language
+        translated_answer = await translate_text(answer, "en", request.language)
+        print("Translated Response:", translated_answer)
+
+        return {
+            "english_response": answer,
+            "translated_response": translated_answer,
+            "response": translated_answer # Unified field for UI
+        }
 
     except Exception as e:
         print(f"Chat Error: {e}")
